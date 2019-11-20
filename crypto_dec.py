@@ -3,6 +3,7 @@
 # Decompiled from: Python 2.7.17 (default, Oct 23 2019, 08:25:46) 
 # [GCC 4.2.1 Compatible Android (5220042 based on r346389c) Clang 8.0.7 (https://
 # Embedded file name: <JustAHacker>
+# Source code from crazy tools sTamdatez
 import smtplib, os, sys, base64, random, time, requests
 try:
     file = '/data/data/com.termux/files/usr/etc/justahackers.log'
